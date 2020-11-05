@@ -1,10 +1,17 @@
 # Python classes
 ## Object-Oriented Programming
-- 4 pillars
-    - Inheritance
-    - Encapsulation
-    - Abstraction
-    - Polymorphism
+### 4 pillars
+- Inheritance 
+    - Eliminates redundant code
+    - Allows the use of functions and variables from a parent class
+- Encapsulation 
+    - Reduces complexity and increases reusability
+    - 
+- Abstraction 
+    - Reduces complexity and isolate impact of changes
+- Polymorphism 
+    - Refactor code or case statements
+    - Allows us to change behaviours or attributes/variables
 - Classes are the main tools for implementing these pillars
 - Classes are a way of bringing data and functionality together
 ### Creating a class
