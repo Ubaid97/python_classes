@@ -8,7 +8,7 @@
     - Reduces complexity and increases reusability
     - 
 - Abstraction 
-    - Reduces complexity and isolate impact of changes
+    - Reduces complexity and isolates impact of changes
 - Polymorphism 
     - Refactor code or case statements
     - Allows us to change behaviours or attributes/variables

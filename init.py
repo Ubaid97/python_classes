@@ -16,5 +16,5 @@ fido = Dog("Fido", "brown")
 # "Fido" is the value passed into the variable 'name'
 # "brown" is the value passed into the variable 'colour'
 
-print(fido.name) # self.name = fido.name in this instance
-print(fido.colour) # self.colour = colour.name in this instance
+print(fido.name) # self.name = fido.name in this instance. See line 7
+print(fido.colour) # self.colour = fido.colour in this instance. See line 9
