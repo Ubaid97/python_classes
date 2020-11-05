@@ -54,3 +54,4 @@ print(lassie.animal_kind) # prints "Canine"
 ```
 - This prints out "Canine", not "big dog", because in the Dog class, the variable animal_kind is still set as "Canine". it's only been changed to "big dog" in the fido instance of the class
 
+### initialising a class
